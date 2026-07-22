@@ -1,0 +1,6 @@
+{
+  "name": "Kas Kelas XI DKV 1",
+  "description": "Aplikasi manajemen uang kas kelas XI DKV 1 profesional berbasis Android dan Web dengan integrasi Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
